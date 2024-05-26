@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/SquareLine UI Project/autosave
+/SquareLine UI Project/backup
+/SquareLine UI Project/cache
